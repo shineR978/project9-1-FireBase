@@ -1,0 +1,16 @@
+[
+  {
+    "username": "carrie123",
+    "email": "carrie123@gmail.com",
+    "password": "$2b$10$8I1u.JZOfzFet2a3kKfYieYvj5K82xI8m/y7i2YopVsvjwDI4dTWy",
+    "role": "instructor",
+    "_id": "66a0f5319a80ce384636179e"
+  },
+  {
+    "username": "nana123",
+    "email": "nana123@gmail.com",
+    "password": "$2b$10$zBkxcWrhbhTo5bhkg/qN0.zNlIqmST3yED3PNOSm8uzmLJuwO5gbm",
+    "role": "student",
+    "_id": "66a0fa3c1a2f3e1a619ef2ac"
+  }
+]
